@@ -143,3 +143,4 @@ TEST(Transaction, Set_fee){
 	EXPECT_EQ(student.GetBalance(),39300);
 
 }
+
