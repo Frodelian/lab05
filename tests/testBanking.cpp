@@ -103,5 +103,3 @@ TEST(Transaction, Throws){
 	ASSERT_ANY_THROW(bank.Make(university,student, 10));
 	ASSERT_NO_THROW(bank.Make(dad,son,1000));
 }
-
-}
